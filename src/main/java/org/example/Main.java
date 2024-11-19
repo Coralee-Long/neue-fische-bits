@@ -13,6 +13,8 @@ public class Main {
 
 /* git setup refresher
 
+    ** add ./idea to the .gitignore (TIP)
+
     git init
     git remote add origin git@github.com:Coralee-Long/neue-fische-bits.git
     git remote -v (verify the remote)
